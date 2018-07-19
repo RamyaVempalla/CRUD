@@ -1,0 +1,11 @@
+C:\Users\Ramya.Vempalla\source\repos\HttpProtocols\HttpProtocols\bin\Debug\netcoreapp2.0\HttpProtocols.deps.json
+C:\Users\Ramya.Vempalla\source\repos\HttpProtocols\HttpProtocols\bin\Debug\netcoreapp2.0\HttpProtocols.runtimeconfig.json
+C:\Users\Ramya.Vempalla\source\repos\HttpProtocols\HttpProtocols\bin\Debug\netcoreapp2.0\HttpProtocols.runtimeconfig.dev.json
+C:\Users\Ramya.Vempalla\source\repos\HttpProtocols\HttpProtocols\bin\Debug\netcoreapp2.0\HttpProtocols.dll
+C:\Users\Ramya.Vempalla\source\repos\HttpProtocols\HttpProtocols\obj\Debug\netcoreapp2.0\HttpProtocols.csprojAssemblyReference.cache
+C:\Users\Ramya.Vempalla\source\repos\HttpProtocols\HttpProtocols\obj\Debug\netcoreapp2.0\HttpProtocols.csproj.CoreCompileInputs.cache
+C:\Users\Ramya.Vempalla\source\repos\HttpProtocols\HttpProtocols\obj\Debug\netcoreapp2.0\HttpProtocols.AssemblyInfoInputs.cache
+C:\Users\Ramya.Vempalla\source\repos\HttpProtocols\HttpProtocols\obj\Debug\netcoreapp2.0\HttpProtocols.AssemblyInfo.cs
+C:\Users\Ramya.Vempalla\source\repos\HttpProtocols\HttpProtocols\bin\Debug\netcoreapp2.0\HttpProtocols.pdb
+C:\Users\Ramya.Vempalla\source\repos\HttpProtocols\HttpProtocols\obj\Debug\netcoreapp2.0\HttpProtocols.dll
+C:\Users\Ramya.Vempalla\source\repos\HttpProtocols\HttpProtocols\obj\Debug\netcoreapp2.0\HttpProtocols.pdb
